@@ -1,0 +1,16 @@
+[
+{
+  "modid": "realserene",
+  "name": "RealSerene",
+  "description": "An syncing mod and more",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Aang23"],
+  "credits": "Credits to Serene's author",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
